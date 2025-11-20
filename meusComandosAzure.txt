@@ -1,0 +1,251 @@
+    1  sudo apt update 
+    2  sudo apt upgrade -y
+    3  sudo apt install apache2 -y
+    4  sudo systemctl status apache2
+    5  sudo systemctl start apache2
+    6  sudo systemctl enable apache2
+    7  sudo systemctl start apache2
+    8  sudo systemctl enable apache2
+    9  sudo systemctl status apache2
+   10  sudo systemctl start apache2
+   11  sudo systemctl enable apache2
+   12  sudo apt update
+   13  sudo apt install git -y
+   14  git clone https://github.com/darealrb/fabiopaneleiro.git
+   15  git clone https://github.com/darealrb/ofabnioehomosexual.git
+   16  cd
+   17  ls
+   18  cd fabiopaneleiro
+   19  cd -
+   20  ls
+   21  ls ofabnioehomosexual
+   22  cd ofabnioehomosexual
+   23  cd ..
+   24  ls
+   25  git clone https://github.com/darealrb/Maquina.git
+   26  ls
+   27  cd Maquina
+   28  mkdir meu-projeto 
+   29  ls´
+   30  ls
+   31  cd meu-projeto
+   32  git init 
+   33  git config --global user.name "darealrb" 
+   34  git config --global user.email "tomas.goncalves@ua.pt
+   35  git remote add origin https://github.com/darealrb/Maquina.git
+   36  git config --global user.email "tomas.goncalves@ua.pt
+   37  ssh-keygen -t rsa -b 80 -c "tomas.goncalves@ua.pt" 
+   38  cs ..
+   39  ls
+   40  coleopdsv
+   41  iodsnvi´
+   42  mdsopmv
+   43  ls
+   44  cd..
+   45  cd ..
+   46  ls
+   47  cd var 
+   48  cd www
+   49  cd html
+   50  ls
+   51  sudo
+   52  sudo git clone https://github.com/darealrb/maquina2.0.git
+   53  cd
+   54  ls
+   55  cd Maquina
+   56  ls´
+   57  ls
+   58  meu-projeto
+   59  cd meu-projeto
+   60  ls
+   61  cd ..
+   62  ls
+   63  cd ..
+   64  ls
+   65  cd var
+   66  cd html
+   67  cd www
+   68  cd html
+   69  ls
+   70  git pull main 
+   71  ls
+   72  cd maquina2.0/
+   73  ls
+   74  git pull main
+   75  sudo git pull main
+   76  git pull
+   77  cd ..
+   78  sudo rm -R maquina2.0
+   79  ls
+   80  sudo git clone https://github.com/darealrb/maquina2.0.git
+   81  ls
+   82  cd Maquina/
+   83  ls
+   84  cd meu-projeto/
+   85  ls
+   86  git add https://github.com/darealrb/maquina2.0.git
+   87  git remote add origin https://github.com/darealrb/maquina2.0.git
+   88  git push -u origin main
+   89  git add "C:\Users\Vitur\Desktop\Maquina\maquina2.0\index.html"
+   90  ls
+   91  git pull index.html
+   92  azureuser@maquina:~/Maquina/meu-projeto$ ls -la
+   93  ls -la
+   94  git add index.html
+   95  git commit -m "Add index.html file"
+   96  git add index.html
+   97  [200~# Create index.html file
+   98  nano index.html
+   99  [200~# Go to your project folder
+  100  cd ~/Maquina/meu-projeto
+  101  # Remove the existing git setup (if needed)
+  102  rm -rf .git
+  103  # Check what files are there
+  104  ls -la~
+  105  # Create a simple HTML file first
+  106  # Verify the file was created
+  107  ls -la
+  108  # Initialize new git repository
+  109  git init
+  110  # Add your HTML file
+  111  git add index.html
+  112  # Commit the file
+  113  git commit -m "Initial commit with HTML file"
+  114  # Connect to your GitHub repository
+  115  git remote add origin https://github.com/darealrb/maquina2.0.git
+  116  ls
+  117  rm fabiopaneleiro/
+  118  sudo rm fabiopaneleiro/
+  119  rm -r fabiopaneleiro/
+  120  rm -r ofabnioehomosexual/
+  121  ls
+  122  cd Maquina/
+  123  ls
+  124  cd meu-projeto/
+  125  ls
+  126  cd ..
+  127  cd ..~
+  128  cd ..
+  129  ls
+  130  cd azureuser/
+  131  git clone https://github.com/darealrb/LI2025-Teste03.git
+  132  cd LI2025-Teste03
+  133  mkdir A134238
+  134  cd A134238
+  135  echo "Teste de LI 2025/2026" > README.md
+  136  cd ..
+  137  git add.
+  138  git add
+  139  git add .
+  140  git config --global user.email "tomas.goncalves@ua.pt"
+  141  it config --global user.name "darealrb"
+  142  git config --global user.name "darealrb"
+  143  git commit -m "2ª tarefa concluída"
+  144  git push origin main
+  145  git push origin main 
+  146  git add index.html
+  147  git commit -m "3ª tarefa concluída"
+  148  git push origin main
+  149  ~git push origin main
+  150  git push origin main
+  151  git push origin main https://github.com/darealrb/LI2025-Teste03.git
+  152  git push origin main
+  153  git pull origin main 
+  154  git add index.html
+  155  toutch index.html
+  156  touch index.html
+  157  ls
+  158  vim index.html 
+  159  git add index.html
+  160  ls
+  161  git commit -m "3ª tarefa concluída"
+  162  git push origin main
+  163  gir push origin main 
+  164  git push origin main 
+  165  ls
+  166  vim index.html 
+  167  git add index.html
+  168  git commit -m"4ª tarefa"
+  169  git push origin main
+  170  git push origin main 
+  171  darealrb
+  172  git push origin main 
+  173  git push origin main
+  174  cd
+  175  cd LI2025-Teste03
+  176  ls
+  177  cd LI2025-Teste03
+  178  ~
+  179  git pull origin main
+  180  cp index.html disciplinas.html
+  181  git add disciplinas.html
+  182  git commit -m "Criado ficheiro disciplinas.html a partir do ficheiro index.html"
+  183  git push origin main
+  184  git push origin main 
+  185  git push origin main
+  186  git push origin main 
+  187  git pull origin main
+  188  history > meusComandosAzure.txt
+  189  ls
+  190  cat meusComandosAzure.txt 
+  191  vim meusComandosAzure.txt 
+  192  ls
+  193  sudo git add .
+  194  git add . && git commit -m "history azure" && git push origin main
+  195  git push origin main 
+  196  ss
+  197  ls
+  198  rm -rf LI2025-Teste03/
+  199  cd Maquina/
+  200  ls
+  201  cd ..
+  202  ls´
+  203  ls
+  204  git clone https://github.com/darealrb/LI2025-Teste03.git
+  205  cd LI2025-Teste03
+  206  ls
+  207  mkdir A134238
+  208  ls
+  209  cd A134238/
+  210  echo "Teste de LI 2025/2026" > README.md
+  211  ls
+  212  cd ..
+  213  git add
+  214  git add .
+  215  git config user.email "tomas.goncalves@ua.pt"
+  216  git config user.name "darealrb"
+  217  git commit -m "2ª tarefa concluida"
+  218  git push origin main
+  219  nano index.html
+  220  ls
+  221  git add
+  222  git add .
+  223  git commit -m "3ª tarefa concluída"
+  224  git push origin main 
+  225  git push origin main
+  226  git push origin main 
+  227  git push origin main
+  228  git push origin main 
+  229  git push origin main
+  230  nano index.html 
+  231  ls
+  232  git add .
+  233  git commit -m "4ª tarefa"
+  234  git push origin main
+  235  cp index.html disciplinas.html
+  236  ls
+  237  git add .
+  238  git commit -m "Criado ficheirodisciplinas.html a partir do ficheiro index.html
+cd..
+cd ..
+push
+ls
+  239  git commit -m "Criado ficheirodisciplinas.html a partir do ficheiro index.html
+  240  git commit -m "Criado ficheirodisciplinas.html a partir do ficheiro index.html"
+  241  git push origin main
+  242  nano disciplinas.html
+  243  git add .
+  244  git commit -m "5ª tarefa cumprida"
+  245  git push origin main
+  246  git pull origin main
+  247  history > meusComandosAzure.txt
